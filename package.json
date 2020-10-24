@@ -1,0 +1,28 @@
+{
+  "name": "creativethoughts.github.io",
+  "version": "0.0.1",
+  "description": "creativethoughts.github.io blog",
+  "main": "index.js",
+  "scripts": {
+    "pretty": "node_modules/prettier/bin-prettier.js . --write --loglevel warn",
+    "pretty:check": "node_modules/prettier/bin-prettier.js . --check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativethoughts/creativethoughts.github.io.git"
+  },
+  "keywords": [
+    "jekyll",
+    "blog"
+  ],
+  "author": "sunilmathew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creativethoughts/creativethoughts.github.io/issues"
+  },
+  "homepage": "https://github.com/creativethoughts/creativethoughts.github.io#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "npm:@btmills/prettier@^2.1.1"
+  }
+}
