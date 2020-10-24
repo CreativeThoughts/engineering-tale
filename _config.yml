@@ -21,7 +21,7 @@
 title: Engineering Tales
 description: >- # this means to ignore newlines until "baseurl:"
   Journal of an Engineer.
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: '/engineering-tale' # the subpath of your site, e.g. /blog
 url: 'https://creativethoughts.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 github_username: CreativeThoughts
 name: Sunil Mathew
